@@ -1,0 +1,12 @@
+@import "./styles/reset";
+@import "./styles/index";
+@import "./styles/globals/colors";
+@import "./styles/globals/transitions";
+@import "./styles/globals/font-styles";
+@import "./styles/globals/btns";
+@import "./styles/globals/spacers";
+@import "./styles/globals/rows-and-cols/rows";
+
+@import "./styles/components/Header/Styles/LargeScreen";
+@import "./styles/components/Header/Styles/SmallScreen";
+@import "./styles/components/Header/Styles/Footer";
