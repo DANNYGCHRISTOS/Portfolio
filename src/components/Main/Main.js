@@ -5,7 +5,7 @@ class Main extends Component {
   render() {
     return (
       <div>
-        Main Page <Footer />
+        Main Page 
       </div>
     );
   }
