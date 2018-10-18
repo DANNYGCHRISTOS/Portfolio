@@ -19,16 +19,13 @@ const toolbar = props => (
             <Link to="/Main">Home</Link>
           </li>
           <li>
-            <Link to="/About">About</Link>
-          </li>
-          <li>
-            <Link to="/Education">Education</Link>
+            <Link to="/Competency">Competency</Link>
           </li>
           <li>
             <Link to="/Experience">Experience</Link>
           </li>
           <li>
-            <Link to="/Project">Project</Link>
+            <Link to="/Project">Projects</Link>
           </li>
           <li>
             <Link to="/Contact">Contact</Link>
