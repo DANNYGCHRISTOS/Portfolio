@@ -9,7 +9,7 @@ class App extends Component {
       <HashRouter>
         <div className="App">
           <Header />
-          <Main />
+          {/* <Main /> */}
           {routes}
         </div>
       </HashRouter>
