@@ -10,11 +10,11 @@
 
 .boxone {
   flex: 1;
-  height: 200px;
+  min-height: 200px;
 }
 .boxtwo {
   flex: 1;
-  height: 200px;
+  min-height: 200px;
   color: #126ec3;
   justify-content: center;
   align-self: center;
@@ -22,7 +22,7 @@
 .boxthree {
   flex: 1;
   background: red;
-  height: 200px;
+  min-height: 200px;
 }
 
 .parent {
@@ -35,15 +35,31 @@
 }
 .child1 {
   flex: 1;
+  width: 200vw;
+  height: 100vh;
+  background: yellow;
+  margin: 0 5px;
 }
 .child2 {
   flex: 1;
+  width: 200vw;
+  height: 100vh;
+  background: yellow;
+  margin: 0 5px;
 }
 .child3 {
   flex: 1;
+  width: 200vw;
+  height: 100vh;
+  background: yellow;
+  margin: 0 5px;
 }
 .child4 {
   flex: 1;
+  width: 200vw;
+  height: 100vh;
+  background: yellow;
+  margin: 0 5px;
 }
 
 .frontend {

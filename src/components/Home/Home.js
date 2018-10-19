@@ -7,6 +7,10 @@ class Home extends Component {
         <div className="container">
           <div className="boxone">
             <p>box one</p>
+            <img
+              src="http://www.pngmart.com/files/1/Open-Book-Transparent-Background-PNG.png"
+              alt="" width="100px" height="100px"
+            />
           </div>
           <div className="boxtwo">
             <h2>FRONT END DEVELOPMENT</h2>
