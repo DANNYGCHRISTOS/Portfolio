@@ -21,7 +21,7 @@
 }
 .boxthree {
   flex: 1;
-  background: rgb(0, 128, 128, 0.3);
+  background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
 }
 
@@ -37,21 +37,21 @@
   flex: 1;
   width: 200vw;
   height: 50vh;
-  background: rgb(0, 128, 128, 0.3);
+  background: rgb(0, 128, 128, 0.1);
   margin: 0 5px;
 }
 .child2 {
   flex: 1;
   width: 200vw;
   height: 50vh;
-  background: rgb(0, 128, 128, 0.3);
+  background: rgb(0, 128, 128, 0.1);
   margin: 0 5px;
 }
 .child3 {
   flex: 1;
   width: 200vw;
   height: 50vh;
-  background: rgb(0, 128, 128, 0.3);
+  background: rgb(0, 128, 128, 0.1);
 
   margin: 0 5px;
 }
@@ -59,7 +59,7 @@
   flex: 1;
   width: 200vw;
   height: 50vh;
-  background: rgb(0, 128, 128, 0.3);
+  background: rgb(0, 128, 128, 0.1);
   margin: 0 5px;
 }
 
