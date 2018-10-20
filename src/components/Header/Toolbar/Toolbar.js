@@ -22,7 +22,7 @@ const toolbar = props => (
             <Link to="/Competency">Competency</Link>
           </li>
           <li>
-            <Link to="/Experience">Experience</Link>
+            <Link to="/Education">Education</Link>
           </li>
           <li>
             <Link to="/Project">Projects</Link>

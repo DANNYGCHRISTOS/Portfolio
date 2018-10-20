@@ -18,7 +18,7 @@ const sideDrawer = props => {
           <Link to="/Education">Education</Link>
         </li>
         <li>
-          <Link to="/Experience">Experience</Link>
+          <Link to="/Education">Education</Link>
         </li>
         <li>
           <Link to="/Project">Projects</Link>

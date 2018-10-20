@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Home from "./components/Home/Home";
+import Education from "./components/Education/Education";
 import { HashRouter } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
@@ -10,7 +11,6 @@ class App extends Component {
       <HashRouter>
         <div className="App">
           <Header />
-          <Home />
           {routes}
         </div>
       </HashRouter>
