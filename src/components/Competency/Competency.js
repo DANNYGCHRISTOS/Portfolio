@@ -6,6 +6,7 @@ class Education extends Component {
     return (
       <div>
         <div className="container">
+          <h1>COMPETENCIES</h1>
           <div className="technology">technologies</div>
           <div className="interpersonal">interpersonal skills</div>
           <div className="industry">industry knowladge</div>
@@ -14,11 +15,11 @@ class Education extends Component {
         </div>
         <div className="parent">
           <h1>EXPERIENCE</h1>
-        <div className="experience">experience</div>
-        <div className="volunteer">experience</div>
-        <div className="honors">Honors and Awards</div>
-        <div className="languages">Languages</div>
-      </div>
+          <div className="experience">experience</div>
+          <div className="volunteer">volunteer</div>
+          <div className="honors">Honors and Awards</div>
+          <div className="languages">Languages</div>
+        </div>
       </div>
     );
   }

@@ -48,6 +48,12 @@
   display: flex;
   flex-wrap: wrap;
 }
+.experience {
+    flex: 1;
+    background: rgb(0, 128, 128, 0.1);
+    min-height: 200px;
+    margin: 15px;
+  }
 
 .volunteer {
   flex: 1;
