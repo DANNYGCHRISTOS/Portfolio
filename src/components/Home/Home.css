@@ -1,29 +1,13 @@
 .container {
-  padding: 0;
-  flex-direction: column;
-  height: 100%;
-  background-size: cover;
-  box-sizing: border-box;
-  display: flex;
-  flex-wrap: wrap;
-}
+  position: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 
-.boxone {
-  flex: 1;
-  min-height: 200px;
-}
-.boxtwo {
-  flex: 1;
-  min-height: 200px;
-  color: #126ec3;
-  justify-content: center;
-  align-self: center;
-}
-.boxthree {
-  flex: 1;
-  background: rgb(0, 128, 128, 0.1);
-  min-height: 200px;
-  padding: 0 5px;
+  /* Preserve aspet ratio */
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .parent {
