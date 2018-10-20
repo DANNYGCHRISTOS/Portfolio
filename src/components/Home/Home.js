@@ -10,12 +10,9 @@ class Home extends Component {
             alt=""
           />
         </div>
-        {/* <div className="parent">
+         <div className="parent">
           <div className="child1">child1</div>
-          <div className="child2">child2</div>
-          <div className="child3">child3 </div>
-          <div className="child4">child4</div>
-        </div> */}
+        </div> 
       </div>
     );
   }
