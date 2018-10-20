@@ -10,33 +10,26 @@
 
 .technology {
   flex: 1;
-  background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .interpersonal {
   flex: 1;
   background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .industry {
   flex: 1;
-  background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .frontend {
   flex: 1;
   background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .backend {
   flex: 1;
   /* background: rgb(0, 128, 128, 0.1); */
   min-height: 200px;
-  margin: 15px;
 }
 
 .parent {
@@ -52,26 +45,20 @@
   flex: 1;
   background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 
 .volunteer {
   flex: 1;
-  background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .honors {
   flex: 1;
   background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 .languages {
   flex: 1;
-  background: rgb(0, 128, 128, 0.1);
   min-height: 200px;
-  margin: 15px;
 }
 
 /*FRONT END*/

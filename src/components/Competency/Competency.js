@@ -11,7 +11,6 @@ class Education extends Component {
           <div className="interpersonal">interpersonal skills</div>
           <div className="industry">industry knowladge</div>
           <div className="frontend">
-            <h1>FRONT-END</h1>
             <div className="react">
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
@@ -63,7 +62,6 @@ class Education extends Component {
             </div>
           </div>
           <div className="backend">
-            backend
             <div className="node">
               <img
                 src="http://www.neginet.com/wp-content/uploads/2018/03/nodejs-logo.png"
