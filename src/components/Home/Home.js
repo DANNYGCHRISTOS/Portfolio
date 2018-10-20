@@ -6,7 +6,7 @@ class Home extends Component {
       <div>
         <div className="container">
           <img
-            src="https://www.planwallpaper.com/static/images/recycled_texture_background.jpg"
+            src="http://hartland.tv/wp-content/uploads/2018/06/web-backgrounds-unique-website-background-wallpaper-blurred-web-backgrounds-hd-wallpaper-of-web-backgrounds.jpg"
             alt=""
           />
         </div>
