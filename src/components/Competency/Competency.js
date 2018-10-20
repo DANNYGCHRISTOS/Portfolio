@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./Competency.css";
 class Education extends Component {
   state = {};
   render() {
@@ -13,11 +14,11 @@ class Education extends Component {
         </div>
         <div className="parent">
           <h1>EXPERIENCE</h1>
-        </div>
         <div className="experience">experience</div>
         <div className="volunteer">experience</div>
         <div className="honors">Honors and Awards</div>
         <div className="languages">Languages</div>
+      </div>
       </div>
     );
   }

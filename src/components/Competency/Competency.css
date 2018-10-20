@@ -1,0 +1,69 @@
+.container {
+  padding: 0;
+  flex-direction: column;
+  height: 100%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.technology {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.interpersonal {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.industry {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.frontend {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.backend {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+
+.parent {
+  padding: 0;
+  flex-direction: column;
+  height: 100%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.volunteer {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.honors {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
+.languages {
+  flex: 1;
+  background: rgb(0, 128, 128, 0.1);
+  min-height: 200px;
+  margin: 15px;
+}
