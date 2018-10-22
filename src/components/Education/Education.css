@@ -1,3 +1,13 @@
-.university{
-    color: #126ec3;
+.econtainer {
+  padding: 0;
+  flex-direction: column;
+  height: 100%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.university {
+  color: #126ec3;
 }

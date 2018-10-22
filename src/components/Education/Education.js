@@ -4,7 +4,7 @@ class Education extends Component {
   state = {};
   render() {
     return (
-      <div className="container">
+      <div className="econtainer">
         <div className="university">
           <h1>MEKELLE UNIVERSITY</h1>
           <img
