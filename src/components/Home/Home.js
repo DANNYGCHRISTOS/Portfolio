@@ -5,6 +5,9 @@ class Home extends Component {
   render() {
     return (
       <div>
+        <div className="linear-gradient">
+
+        </div>
         <div className="container">
           <img src={hero} alt="hero" />
         </div>
