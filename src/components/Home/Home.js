@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./Home.css";
 import hero from "../../Images/hero.jpg";
 class Home extends Component {
   render() {
