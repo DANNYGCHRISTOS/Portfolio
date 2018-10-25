@@ -8,19 +8,19 @@ class Home extends Component {
     return (
       <div>
         <main>
-          <section class="section-about">
-            <div class="u-center-text u-margin-bottom-big" />
-            <div class="row">
+          <section className="section-about">
+            <div className="u-center-text u-margin-bottom-big" />
+            <div className="row">
               <Banner />
-              <div class="col-1-of-2" />
-              <div class="col-1-of-2" />
+              <div className="col-1-of-2" />
+              <div className="col-1-of-2" />
             </div>
 
-            <div class="row">
+            <div className="row">
               <Cards />
-              <div class="col-1-of-3" />
-              <div class="col-1-of-3" />
-              <div class="col-1-of-3" />
+              <div className="col-1-of-3" />
+              <div className="col-1-of-3" />
+              <div className="col-1-of-3" />
             </div>
           </section>
         </main>
